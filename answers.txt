@@ -15,3 +15,12 @@ Mainly the product owner is expected to maximize product value and focus on the 
 1) Spring planning, which is the meeting at the start of the sprint that defines the goals that needs to be accomplish and the tasks from the product backlog that are needed to be included in this sprint.
 2) Daily Standup, which is a daily sync with the primarly goal to adjust the workflow by discussing everyone's daily progress and to identify any blockers or distractions that team faces so that the plan for the upcoming day's work can be adjust or prioritized in the different way.
 3) Sprint review, which is the meeting at the end of the sprint whose goal is to review the completed work by showcasing the working features or bug fixes to the product owner and to collect the feedback from them to adjust the product backlog and adjust the way team works and develops its features in the future.
+
+#CSP-20
+Epic is large and usually multi-spring work which acts as a big goal or a big project which sits at the top level of the tasks hierarchy.
+
+Story is usually a single spring medium size work that focuses on the user-focused feature or bringing a value to the project stakeholder which sits under specific epic.
+
+Task is also usually a single sprint medium size work whose purpose is to describe the desired technical work whose parent is also a specific Epic. It describes the actual background work that needs to be done to provide the user-faced value which can be potentially described in the story while task is not a child of it but rather a sibling.
+
+Bug's size and duration can vary based on its technical complexity and it usually indicates the area of work that needs to be done to fix an error or immediate low-quality of the feature. It can vary in terms of its parent as it can be sitting standalone like epics do.
