@@ -1,1 +1,8 @@
+#CSP-17
 
+Pros:
+1) Sprints and other short development cycles allow to deploy new features and bug fixes quickly, because there is no long wait for the end of a long non-agile project.
+2) There is a high flexibility and adaptability because teams can change their projects scope and the specifications mid-way.
+Cons:
+1) There are a lost of very frequent meetings and non-stop team commitment and collaboration that requires a lot of time commitment for the developer especially in the age of AI when the requirements for the amount of work are increasing faster then the productivity of the developer.
+2) It is harder for the team managers and operations to estimate the final costs and final timelines because as was mentioned in the pros the scope can change drastically and quickly so it is hard to adjust the budgets and planning that quickly to get the right resource allocation for the project.
